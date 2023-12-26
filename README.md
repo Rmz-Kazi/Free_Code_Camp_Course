@@ -1,2 +1,2 @@
-# Free_Code_Camp_Course
-Free Code Camps certficates are uploade here
+Hello all!
+I will be uploading my attempts on the freeCodeCamp's certificates. I will occassionally revisit them to improve them when I learn something new. 
